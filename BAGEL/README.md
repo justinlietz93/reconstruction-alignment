@@ -179,7 +179,6 @@ torchrun \
     --resolution 1024 \
     --max_latent_size 64 \
     --model-path $model_path \
-    --use-ema # Use EMA weights. If you want to use non-EMA weights, remove this line.
 ```
 
 **Note:** This will generate 12 1024x1024 images per prompt for evaluation. Similarly, you can run the evaluation scripts for DPGBench, WISE, ImgEdit and GEdit datasets by modifying the respective scripts in the `scripts/eval` directory. More detailed Evaluation instructions can be found in the original [BAGEL repository](https://github.com/ByteDance-Seed/BAGEL).
