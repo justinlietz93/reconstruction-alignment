@@ -28,7 +28,6 @@ import json
 from xtuner.model.utils import guess_load_checkpoint
 
 def set_seed(seed=0):
-    """设置随机种子以确保结果可重复"""
     random.seed(seed)
     np.random.seed(seed)
     torch.manual_seed(seed)
