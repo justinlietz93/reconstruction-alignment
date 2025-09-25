@@ -121,9 +121,8 @@ torchrun \
   --use_flex \
   --lr 0.00004 \
 ```
-### Start Training
 
-Trans your ckpt into hf format:
+After training, you can transfer your ckpt into hf format:
 
 use `BAGEL/scripts/trans2hf.sh`
 
