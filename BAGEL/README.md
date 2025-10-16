@@ -151,6 +151,10 @@ echo "Checkpoint for weight has been processed."
 
 change the `INPUT_CHECKPOINT_PATH` to `your_output_path`, `TEMPLATE_MODEL` to `Bagel_official_path`
 
+## Visualization of the semantic reconstruction
+
+You can use the `inference.ipynb`, and there are reconstruction code in it.
+
 ## Evaluation
 
 ### Don't use ema.safetensors !!!
