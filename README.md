@@ -96,7 +96,8 @@ A collection of RecA models on Hugging Face with benchmark performance:
 | [Show-o-RecA (CLIP)](https://huggingface.co/sanaka87/Show-o-RecA) | 1.3B | 61.9 (+5.3) | 75.70 (+5.05) | - | - |
 | [Show-o-512x512-RecA (CLIP)](https://huggingface.co/sanaka87/Show-o-512x512-RecA) | 1.3B | 72.3 (+6.1) | 84.94 (+2.73) | - | - |
 | [Harmon-1.5B-RecA-plus](https://huggingface.co/sanaka87/Harmon-1.5B-RecA-plus) | 1.5B | 90.0 | 88.15 | - | - |
-| [OpenUni-RecA](https://huggingface.co/sanaka87/OpenUni-RecA) | 3.6B | 74.1 (+12.2) | 82.75 (+3.73) | - | - |
+| [OpenUni-1-0.6B-RecA](https://huggingface.co/sanaka87/OpenUni-1-0.6B-RecA) | 1.6B | 70.4 (+14.4) | 80.45 (+4.16) | - | - |
+| [OpenUni-2-1.6B-RecA](https://huggingface.co/sanaka87/OpenUni-RecA) | 3.6B | 74.1 (+12.2) | 82.75 (+3.73) | - | - |
 
 
 ## 🍭 Results
