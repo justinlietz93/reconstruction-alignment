@@ -6,6 +6,7 @@
   </h1>
 
   <h4 style="margin: 15px 0; color: #2c3e50;">
+    🔧 Verified on numerous architecture: [Show-o (VQGAN)](https://github.com/showlab/Show-o), [Show-o (CLIP)](https://github.com/showlab/Show-o), [Harmon](https://github.com/wusize/Harmon), [OpenUni](https://github.com/wusize/OpenUni/tree/main/scripts), [BAGEL](https://github.com/ByteDance-Seed/Bagel), [Janus-Pro](https://github.com/deepseek-ai/Janus) (ongoing)!
     🚀 Just 6 × 80GB A100s × 4.5 hours to boost BAGEL performance across all tasks! Our BAGEL outperforms FLUX-Kontext in image editing capabilities!
   </h4>
 
